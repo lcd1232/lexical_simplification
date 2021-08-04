@@ -27,7 +27,7 @@ Arguments
 --google  : Frequencies of words/phrases from Google Ngram corpus. Each line in the file consists of a word and its 
             frequency seperated by tabs. 
             Eg: <word>  123
---wiki    : Log ratio of the probabilities of observing a word/phrase in Simple Wikipedia to Normal Wikiepdia. For more
+--wiki    : Log ratio of the probabilities of observing a word/phrase in Simple Wikipedia to Normal Wikipedia. For more
             details please check this paper - https://cs.brown.edu/people/epavlick/papers/style_for_paraphrasing.pdf
             Each line in the file consists of a word and its ratio seperated by tabs.
             Eg: <word>  0.2
